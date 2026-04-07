@@ -1,0 +1,7 @@
+[17:01:29] TravelBuddy (Greeting):
+Chào bạn! Mình là trợ lý du lịch TravelBuddy ✈️
+Bạn đang muốn đi đâu hoặc có ngân sách bao nhiêu? 😊
+--------------------------------------------------
+[17:01:33] User:
+xin chào
+--------------------------------------------------

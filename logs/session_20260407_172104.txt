@@ -1,0 +1,14 @@
+[17:21:04] TravelBuddy (Greeting):
+Chào bạn! Mình là trợ lý du lịch TravelBuddy ✈️
+Bạn đang muốn đi đâu hoặc có ngân sách bao nhiêu? 😊
+--------------------------------------------------
+[17:21:14] User:
+tôi muốn đi ăn Phở Las Vegas
+--------------------------------------------------
+[17:21:17] TravelBuddy:
+Chào bạn! Rất vui được hỗ trợ bạn lên kế hoạch cho chuyến đi.
+
+Tuy nhiên, mình là trợ lý chuyên hỗ trợ du lịch tại Việt Nam. Hiện tại mình chỉ có thể giúp bạn tìm kiếm thông tin về các chuyến bay và khách sạn trong nước thôi. Rất tiếc là mình không có thông tin về các địa điểm ăn uống hay dịch vụ tại Las Vegas.
+
+Nếu bạn có dự định đi du lịch ở đâu đó tại Việt Nam, đừng ngần ngại cho mình biết nhé, mình sẵn sàng hỗ trợ bạn tìm vé máy bay và khách sạn ngay!
+--------------------------------------------------

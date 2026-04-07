@@ -1,0 +1,20 @@
+[17:18:47] TravelBuddy (Greeting):
+Chào bạn! Mình là trợ lý du lịch TravelBuddy ✈️
+Bạn đang muốn đi đâu hoặc có ngân sách bao nhiêu? 😊
+--------------------------------------------------
+[17:18:49] User:
+I want to book a flight to Paris.
+--------------------------------------------------
+[17:18:52] TravelBuddy:
+Chào bạn! Rất vui được hỗ trợ bạn lên kế hoạch cho chuyến đi.
+
+Tuy nhiên, hiện tại TravelBuddy chỉ tập trung hỗ trợ các chuyến du lịch trong phạm vi Việt Nam thôi. Bạn có dự định đi đâu trong nước không? Nếu có, hãy cho mình biết điểm xuất phát, mình sẽ tìm vé và khách sạn phù hợp nhất cho bạn nhé!
+--------------------------------------------------
+[17:20:57] User:
+E:/AI_thuc_chien/class_assignments/venv/Scripts/python.exe e:/AI_thuc_chien/class_assignments/lab4/agent.py
+--------------------------------------------------
+[17:20:59] TravelBuddy:
+Chào bạn, mình là trợ lý du lịch TravelBuddy. Có vẻ như bạn đang gửi nhầm nội dung gì đó liên quan đến lập trình rồi!
+
+Mình chỉ hỗ trợ tư vấn các thông tin về du lịch tại Việt Nam thôi. Nếu bạn đang lên kế hoạch cho một chuyến đi trong nước, hãy cho mình biết điểm xuất phát và điểm đến, mình sẽ giúp bạn tìm vé máy bay và khách sạn với ngân sách hợp lý nhất nhé! Bạn đang dự định đi đâu nào?
+--------------------------------------------------

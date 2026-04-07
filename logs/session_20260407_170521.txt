@@ -1,0 +1,10 @@
+[17:05:21] TravelBuddy (Greeting):
+Chào bạn! Mình là trợ lý du lịch TravelBuddy ✈️
+Bạn đang muốn đi đâu hoặc có ngân sách bao nhiêu? 😊
+--------------------------------------------------
+[17:05:25] User:
+xin chào
+--------------------------------------------------
+[17:05:34] SYSTEM ERROR:
+[WinError 10054] An existing connection was forcibly closed by the remote host
+--------------------------------------------------
